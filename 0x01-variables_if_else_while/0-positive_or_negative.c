@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * MAIN - Entry point of the program
+ * main - Entry point of the program
  *
  * Return: 0 on success
  */
