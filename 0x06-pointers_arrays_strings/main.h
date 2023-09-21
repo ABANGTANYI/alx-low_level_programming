@@ -11,5 +11,6 @@
  * adds a terminating null byte. Returns a pointer to the resulting string  to the resulting string dest.
  */
 char *_strcat(char *dest, char *src);
+char *_strncat(char *dest, char *src, int n);
 
 #endif /* STRCAT_H */
